@@ -1,0 +1,105 @@
+Country_Code,Country,Sex,Retirement Age
+CAN,Canada,Male,65.0
+BEL,Belgium,Male,65.0
+AUT,Austria,Female,60.0
+AUS,Australia,Male,66.5
+AUS,Australia,Female,66.5
+DEU,Germany,Female,65.8
+FRA,France,Male,64.8
+FRA,France,Female,64.8
+FIN,Finland,Female,65.0
+FIN,Finland,Male,65.0
+EST,Estonia,Female,64.3
+EST,Estonia,Male,64.3
+DNK,Denmark,Female,67.0
+CZE,Czechia,Female,63.8
+CRI,Costa Rica,Female,60.0
+COL,Colombia,Female,57.0
+COL,Colombia,Male,62.0
+CHL,Chile,Female,65.0
+SWE,Sweden,Male,65.0
+ESP,Spain,Female,65.0
+ESP,Spain,Male,65.0
+SVN,Slovenia,Female,62.0
+SVK,Slovak Republic,Female,62.8
+PRT,Portugal,Female,65.6
+PRT,Portugal,Male,65.6
+POL,Poland,Female,60.0
+POL,Poland,Male,65.0
+NOR,Norway,Female,67.0
+NZL,New Zealand,Male,65.0
+NZL,New Zealand,Female,65.0
+NLD,Netherlands,Male,66.6
+NLD,Netherlands,Female,66.6
+MEX,Mexico,Female,65.0
+LUX,Luxembourg,Male,62.0
+LUX,Luxembourg,Female,62.0
+LTU,Lithuania,Female,63.7
+LVA,Latvia,Female,64.3
+KOR,Korea,Male,62.0
+JPN,Japan,Male,65.0
+ITA,Italy,Male,64.0
+ISR,Israel,Male,67.0
+IRL,Ireland,Female,66.0
+IRL,Ireland,Male,66.0
+ISL,Iceland,Female,67.0
+HUN,Hungary,Male,65.0
+GRC,Greece,Male,62.0
+GRC,Greece,Female,62.0
+ZAF,South Africa,Male,60.0
+MLT,Malta,Male,63.0
+IND,India,Male,58.0
+HRV,Croatia,Male,65.0
+CHN,China (People’s Republic of),Male,60.0
+BRA,Brazil,Female,61.0
+ARG,Argentina,Male,65.0
+OECD_REP,OECD average country,Male,64.4
+USA,United States,Female,66.0
+TUR,Türkiye,Male,52.0
+CHE,Switzerland,Male,65.0
+SVN,Slovenia,Male,62.0
+SVK,Slovak Republic,Male,62.8
+NOR,Norway,Male,67.0
+MEX,Mexico,Male,65.0
+LTU,Lithuania,Male,64.3
+LVA,Latvia,Male,64.3
+KOR,Korea,Female,62.0
+JPN,Japan,Female,65.0
+ITA,Italy,Female,64.0
+ISR,Israel,Female,62.0
+ISL,Iceland,Male,67.0
+HUN,Hungary,Female,62.0
+DEU,Germany,Male,65.8
+DNK,Denmark,Male,67.0
+CZE,Czechia,Male,63.8
+CRI,Costa Rica,Male,62.0
+CHL,Chile,Male,65.0
+CAN,Canada,Female,65.0
+BEL,Belgium,Female,65.0
+AUT,Austria,Male,65.0
+ZAF,South Africa,Female,60.0
+SAU,Saudi Arabia,Male,47.0
+SAU,Saudi Arabia,Female,47.0
+ROU,Romania,Female,61.8
+ROU,Romania,Male,65.0
+MLT,Malta,Female,63.0
+IDN,Indonesia,Male,58.0
+IDN,Indonesia,Female,58.0
+IND,India,Female,58.0
+CYP,Cyprus,Female,65.0
+CYP,Cyprus,Male,65.0
+HRV,Croatia,Female,63.0
+CHN,China (People’s Republic of),Female,55.0
+BGR,Bulgaria,Female,61.8
+BGR,Bulgaria,Male,64.4
+BRA,Brazil,Male,65.0
+ARG,Argentina,Female,60.0
+OECD_REP,OECD average country,Female,63.6
+EU27,European Union (27 countries),Female,63.8
+EU27,European Union (27 countries),Male,64.5
+USA,United States,Male,66.0
+GBR,United Kingdom,Male,66.0
+GBR,United Kingdom,Female,66.0
+TUR,Türkiye,Female,49.0
+CHE,Switzerland,Female,64.0
+SWE,Sweden,Female,65.0
