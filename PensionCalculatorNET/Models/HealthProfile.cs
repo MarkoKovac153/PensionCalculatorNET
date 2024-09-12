@@ -1,4 +1,4 @@
-﻿namespace PensionCalculator_API.Models
+﻿namespace PensionCalculatorNET.Models
 {
     public class HealthProfile
     {

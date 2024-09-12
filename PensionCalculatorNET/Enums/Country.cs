@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace PensionCalculator_API.Enums
+namespace PensionCalculatorNET.Enums
 {
     using System;
     using System.Collections.Generic;
@@ -406,9 +406,9 @@ namespace PensionCalculator_API.Enums
         };
 
 
-        public static CountryInfo GetCountryInfo(this Country country)
+        public static CountryInfo? GetCountryInfo(this Country country)
         {
-            return CountryDetails.ContainsKey(country) ? CountryDetails[country] : null;
+            return CountryDetails.TryGetValue(country, out CountryInfo? value) ? value : null;
         }
 
         public static Country? GetCountryByCode(string code)

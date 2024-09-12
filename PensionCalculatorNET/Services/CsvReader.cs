@@ -5,10 +5,10 @@ using System.Linq;
 using System.Globalization;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Configuration;
-using PensionCalculator_API.Models;
-using PensionCalculator_API.Interfaces;
+using PensionCalculatorNET.Models;
+using PensionCalculatorNET.Interfaces;
 
-namespace PensionCalculator_API.Services
+namespace PensionCalculatorNET.Services
 {
 
     public class CsvReader : ICsvReaderService  // Implement the interface here

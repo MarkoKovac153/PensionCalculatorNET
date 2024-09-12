@@ -1,4 +1,4 @@
-﻿namespace PensionCalculator_API.Enums
+﻿namespace PensionCalculatorNET.Enums
 {
     public enum Sex
     {

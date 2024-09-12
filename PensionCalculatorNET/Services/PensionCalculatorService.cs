@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Globalization;
 using Microsoft.Extensions.Logging;
-using PensionCalculator_API.Models;  // Replace with actual namespace for UserProfile, HealthProfile, PensionPlan, etc.
-using PensionCalculator_API.Interfaces;
+using PensionCalculatorNET.Models;  // Replace with actual namespace for UserProfile, HealthProfile, PensionPlan, etc.
+using PensionCalculatorNET.Interfaces;
 
 namespace PensionCalculator_API.Services
 {

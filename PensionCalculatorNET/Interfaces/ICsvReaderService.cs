@@ -1,8 +1,8 @@
 ﻿using System;
 
-using PensionCalculator_API.Models;  // Replace with your actual namespace for UserProfile and HealthProfile
+using PensionCalculatorNET.Models;  // Replace with your actual namespace for UserProfile and HealthProfile
 
-namespace PensionCalculator_API.Interfaces
+namespace PensionCalculatorNET.Interfaces
 {
     public interface ICsvReaderService
     {
